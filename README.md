@@ -6,9 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 So, currently in search of a job by a junior IOS developer
+- 🔭 I am currently in search of a job by a junior IOS developer
 - 🌱There are 3 apps in my portfolio: to-do list, calculator, messenger (in development).
-- 🙂 I am 27 years old
 - 📞 My phone number/whatsApp: +7-951-083-83-69
 - 📫 My mail: denis.izotov.1994@mail.ru
 - 📠 Telegram: @DenisIzotovIOS
