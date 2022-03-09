@@ -1,4 +1,4 @@
-![resume] (https://github.com/Denisiz/Denisiz/blob/d115db78b3732aa9259c36d2e518e1aa0ee524ff/Header.png)
+![picture resume] (https://github.com/Denisiz/Denisiz/blob/d115db78b3732aa9259c36d2e518e1aa0ee524ff/Header.png)
 ### Hi, I'm Denis 👋
 
 <!--
