@@ -6,12 +6,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm currently in search of a job by a junior IOS developer
-- 🌱 I’m have portfolio is 3 apps
+- 🔭 So, currently in search of a job by a junior IOS developer
+- 🌱There are 3 apps in my portfolio: to-do list, calculator, messenger (in development).
 - 🙂 I am 27 years old
-- 📞 My phone number: 8-951-083-83-69
+- 📞 My phone number/whatsApp: +7-951-083-83-69
 - 📫 My mail: denis.izotov.1994@mail.ru
-- 📟 WhatsApp:8-951-083-83-69
 - 📠 Telegram: @DenisIzotovIOS
 
 My skills:
