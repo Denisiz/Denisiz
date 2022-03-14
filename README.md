@@ -17,7 +17,7 @@ My skills:
 - Cocopods
 - Git
 - Xcode
-- SWIFT
+- Swift
 - Objective-C
 - SwiftUI
 - Scrum
